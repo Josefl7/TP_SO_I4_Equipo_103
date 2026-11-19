@@ -1,0 +1,11 @@
+a) el color de fondo de la pagina del testing es azul
+b)el color de fondo de la pagina de desarrollo es amarillo
+c) el color de fondo de la pagina de master es verde
+d) el favicon que quedo en el master es el de beta
+e)ningún integrante tuvo problemas al hacer un push
+f) no surgieron problemas
+G) el problema leve que tuvimos es que al hacer el pull en otra rama no se cargaron los cambios de la otra rama, luego al hacer un pull dentro de esa rama se actualizo correctamente.
+H)fuerza la actualización de la rama remota
+I)lo que se debe hacer para que todos tengan correctamente el index.hmtl y que no se rompa es hacer un git pull antes del push
+
+
